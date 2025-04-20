@@ -8,7 +8,7 @@ if operator == '+':
     
 elif operator == '-':
     result = num1-num2
-    print(result))
+    print(result)
 
 
 elif operator == "*":
