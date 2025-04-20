@@ -8,7 +8,7 @@ if operator == '+':
     
 elif operator == '-':
     result = num1-num2
-    print(round(result))
+    print(result))
 
 
 elif operator == "*":
@@ -18,22 +18,22 @@ elif operator == "*":
 
 elif operator == "/":
     result = num1/num2
-    print(round(result)
+    print(result)
 
 
 elif operator == "%":
     result = num1%num2
-    print(round(result)
+    print(result)
 
 
 elif operator == "//":
     result = num1//num2
-    print(round(result)
+    print(result)
 
 
 elif operator == "**":
     result = num1**num2
-    print(round(result)
+    print(result)
 
 
 else:
